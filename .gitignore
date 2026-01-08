@@ -1,3 +1,6 @@
 /target
 *.png
 *.jpg
+
+# Allow example galaxy images
+!examples/images/*.png
